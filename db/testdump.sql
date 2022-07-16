@@ -7,7 +7,7 @@ INSERT INTO Student(
        student_name, 
        student_age) 
 VALUES(
-       "ลุ่มน้ำโขงออนไลน์", 
+       "P Kluay", 
         21
 );
 INSERT INTO Student(
